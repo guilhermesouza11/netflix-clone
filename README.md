@@ -12,8 +12,6 @@ Netflix clone, made in HTML, CSS and ReactJS.
 
     License: Public;
 
-    How to run the project:
-
-Download the project by clicking on the green button with the name "code" in the "Download ZIP" option and save it in the folder where you want. access the project's root folder through the windows cmd and execute the command "yarn start" or "npm start";;
+    How to run the project: Download the project by clicking on the green button with the name "code" in the "Download ZIP" option and save it in the folder where you want. access the project's root folder through the windows cmd and execute the command "yarn start" or "npm start";;
 
     Contact me: https://www.linkedin.com/in/guilhermesouzadossantos/ or guilhermess.dev@gmail.com
